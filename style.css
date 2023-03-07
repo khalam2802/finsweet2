@@ -1425,7 +1425,7 @@ padding-right: 10px;
   }
   
   .blog__grid1 p {
-    font-size: 14px;
+    font-size: 9px;
     line-height: 24px;
     display: -webkit-box;
     -webkit-line-clamp: 3;
@@ -1552,10 +1552,10 @@ padding-right: 10px;
     grid-template-columns: repeat(1, 1fr);
   }
   .blog__grid1 {
-    padding: 30px;
+    padding: 0 30px;
   }
   .blog__grid1 h1 {
-    font-size: 24px;
+    font-size: 21px;
     line-height: 32px;
     padding: 10px 0;
   }gi

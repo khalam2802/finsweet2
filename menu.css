@@ -527,22 +527,22 @@ margin-right: 15px;
 /* RESPONSIVE HEADER  */
 @media screen and (max-width: 1320px) {
   /* HEADER  */
-  /* header {
+  header {
     padding: 0 50px;
   }
   .container {
     padding: 0 50px;
-  } */
+  }
 }
 
 @media screen and (max-width: 1100px) {
   /* HEADER  */
-  /* header {
+  header {
     padding: 0 30px;
   }
   .container {
     padding: 0 30px;
-  } */
+  }
 }
 
 @media screen and (max-width: 900px) {
@@ -860,4 +860,8 @@ margin-right: 15px;
     grid-template-columns: auto;
   }
 
+}
+@media screen and (max-width: 500px){}
+  header {
+    flex-wrap: wrap;
 }
